@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harpreet Singh</h1>
-<h3 align="center">Fullstack Developer with over 10 years of experience leveraging JavaScript to build responsive websites, mobile apps, and interactive features that drive business growth and improve UX.</h3>
+<h3 align="center">Fullstack Developer with over 10+ years of experience leveraging JavaScript to build responsive websites, mobile apps, and interactive features that drive business growth and improve UX.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsit18&label=Profile%20views&color=0e75b6&style=flat" alt="hsit18" /> </p>
 
