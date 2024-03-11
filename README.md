@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/hsit18" target="blank"><img src="https://img.shields.io/twitter/follow/hsit18?logo=twitter&style=for-the-badge" alt="hsit18" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS, Web3, Spring Boot**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **NodeJS, ReactJS, HTML CSS, JavaScript, Typescript**
+- 💬 Ask me about **NodeJS, ReactJS, HTML CSS, JavaScript, Typescript, NextJS**
 
 - 📫 How to reach me **hsit18@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fTQkNVN4OnuiCW-NyJhLZvRwrbBoEBxE/view?usp=sharing](https://drive.google.com/file/d/1fTQkNVN4OnuiCW-NyJhLZvRwrbBoEBxE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
